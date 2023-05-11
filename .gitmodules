@@ -1,0 +1,3 @@
+[submodule "MERN-backend"]
+	path = MERN-backend
+	url = https://github.com/christejab07/MERN-backend.git
